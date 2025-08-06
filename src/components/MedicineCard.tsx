@@ -48,7 +48,7 @@ const MedicineCard = ({ medicine, index }: MedicineCardProps) => {
             <span className={`text-xs rounded-full px-2 py-1 ${
               medicine.prescriptionRequired 
                 ? "bg-destructive/10 text-destructive" 
-                : "bg-accent/10 text-accent-foreground"
+                : "bg-accent/10 text-white"
             }`}>
               {medicine.prescriptionRequired ? "Prescription Required" : "OTC"}
             </span>
