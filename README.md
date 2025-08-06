@@ -1,7 +1,10 @@
 <div align="left" style="position: relative;">
 <img src="https://img.icons8.com/?size=512&id=55494&format=png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>-MEDIBOT</h1>
-
+<p align="left">
+	<em><code>❯ Making medical information accessible, understandable, and reliable for everyone.</code></em>
+</p>
+	
 [Website](https://medibotai-alpha.vercel.app/)
 <p align="left">
 	<img src="https://img.shields.io/github/license/Astro-Saurav/-MediBot?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
