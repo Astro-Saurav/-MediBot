@@ -53,13 +53,15 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ MediBot was created with a simple but powerful mission: to bridge the gap between complex medical information and everyday understanding.We believe that access to clear, accurate, and reliable medical information should be available to everyone, regardless of their background or prior knowledge.Through our platform, we aim to empower individuals to make informed decisions about their health and medication needs, promoting better health outcomes for all.</code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ AI Chat Assistant</code>
+<code>❯Medicine Search</code>
+<code>❯Reliable Information</code>
 
 ---
 
