@@ -710,7 +710,7 @@ Run the test suite using the following command:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/Astro-Saurav/-MediBot/}graphs/contributors">
+   <a href="https://github.com/Astro-Saurav">
       <img src="https://contrib.rocks/image?repo=Astro-Saurav/-MediBot">
    </a>
 </p>
