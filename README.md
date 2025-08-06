@@ -681,11 +681,7 @@ Run the test suite using the following command:
 
 ## 🔰 Contributing
 
-- **💬 [Join the Discussions](https://github.com/Astro-Saurav/-MediBot/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/Astro-Saurav/-MediBot/issues)**: Submit bugs found or log feature requests for the `-MediBot` project.
-- **💡 [Submit Pull Requests](https://github.com/Astro-Saurav/-MediBot/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-
-<details closed>
+<details open>
 <summary>Contributing Guidelines</summary>
 
 1. **Fork the Repository**: Start by forking the project repository to your github account.
