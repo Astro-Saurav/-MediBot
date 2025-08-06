@@ -161,17 +161,17 @@ const Contact = () => {
                     </p>
                   </div>
                   </a>
-                  <a href="mailto:ashmitchatta445@gmail.com" className="block hover:text-primary transition-colors">
+                  <a href="mailto:0501saurav@gmail.com" className="block hover:text-primary transition-colors">
                     <h3 className="font-semibold text-lg mb-2" >Email Us</h3>
                     <p className="text-muted-foreground" >
-                      ashmitchatta445@gmail.com
+                      0501saurav@gmail.com
                     </p>
                   </a>
               
                   <a href="tel:+918481815738" className="block hover:text-primary transition-colors">
                     <h3 className="font-semibold text-lg mb-2">Call Us</h3>
                     <p className="text-muted-foreground">
-                      +91 8481815738
+                      +91 9572855213
                     </p>
                   </a>
                   
