@@ -23,7 +23,7 @@ if (!API_KEY) {
   console.error("Gemini API Key not found. Please set VITE_GEMINI_API_KEY in your .env file and restart the server.");
 }
 
-const MODEL_NAME = "gemini-1.5-flash-latest";
+const MODEL_NAME = "gemini-2.5-pro";
 
 const ChatBot = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -77,7 +77,7 @@ Do not diagnose conditions. If a user describes symptoms, you can provide genera
 
       chatSessionRef.current = model.startChat({
         generationConfig: {
-          maxOutputTokens: 400,
+          maxOutputTokens: 2048,
           temperature: 0.6,
         },
         history: [], 
