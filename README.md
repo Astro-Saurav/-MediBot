@@ -720,4 +720,4 @@ Run the test suite using the following command:
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE]([https://choosealicense.com/licenses](https://github.com/Astro-Saurav/-MediBot/blob/main/LICENSE)) License.
+This project is protected under the [SELECT-A-LICENSE](https://github.com/Astro-Saurav/-MediBot/blob/main/LICENSE) License.
